@@ -177,3 +177,17 @@ Guia sobre a importância da inclusão digital para o cumprimento legal e respon
 https://mwpt.com.br/10-anos-da-lbi-e-o-que-mudou-na-acessibilidade-digital/
 
 Retrospectiva da Lei Brasileira de Inclusão e análise da evolução das barreiras digitais no Brasil.
+
+
+### Dominos
+[39] The Domino’s Verdict: A Turning Point for Digital Accessibility
+https://userway-org.translate.goog/blog/the-dominos-verdict/?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=pt&_x_tr_pto=tc
+Análise do caso Robles v. Domino’s e seu impacto na obrigatoriedade de acessibilidade em sites e aplicativos
+[40] Supreme Court rejects Domino’s appeal in ADA website accessibility case
+https://www.cnbc.com/2019/10/07/dominos-supreme-court.html
+
+Decisão da Suprema Corte dos EUA que permitiu o avanço do processo sobre acessibilidade digital sob a ADA
+[41] The Robles v. Domino’s settlement and why it matters
+https://www.boia.org/blog/the-robles-v.-dominos-settlement-and-why-it-matters
+
+Explicação do acordo judicial e suas implicações para empresas quanto à inclusão digital e conformidade legal
