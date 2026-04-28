@@ -153,3 +153,27 @@ https://www.correiobraziliense.com.br/brasil/2024/07/6904961-pessoas-com-deficie
 **[33]** *Falta de acessibilidade nas empresas: o barato que pode sair caro!*  
 https://www.handtalk.me/br/blog/lei-de-acessibilidade-nas-empresas-multa-post/  
 > Multa máxima prevista: R$ 214.301.536,00; casos de empresas autuadas no Brasil
+
+[34] MPF recomenda ajustes na plataforma Gov.br para aprimorar acessibilidade a pessoas com deficiência visual
+https://www.mpf.mp.br/o-mpf/unidades/pr-sp/noticias/mpf-recomenda-ajustes-na-plataforma-gov-br-para-aprimorar-acessibilidade-a-pessoas-com-deficiencia-visual-3
+Atuação do Ministério Público Federal exigindo correções técnicas em portais governamentais.
+
+[35] MPF pede que operadora Claro resolva pendências de acessibilidade no site da empresa e em serviços de TV por assinatura
+https://www.mpf.mp.br/o-mpf/unidades/pr-sp/noticias/mpf-pede-que-claro-resolva-pendencias-de-acessibilidade-no-site-da-empresa-e-em-servicos-de-tv-por-assinatura
+
+Exemplo de ação civil pública contra grande empresa do setor de telecomunicações por barreiras digitais.
+
+[36] Multas do PROCON por falta de acessibilidade
+https://www.icom.app/multas-do-procon-por-falta-de-acessibilidade/
+
+Detalhamento de sanções administrativas aplicadas por órgãos de defesa do consumidor a empresas inacessíveis.
+
+[37] Acessibilidade Digital: O que é e por que sua empresa precisa dela
+https://www.icom.app/acessibilidade-digital/
+
+Guia sobre a importância da inclusão digital para o cumprimento legal e responsabilidade social corporativa.
+
+[38] 10 anos da LBI e o que mudou na acessibilidade digital
+https://mwpt.com.br/10-anos-da-lbi-e-o-que-mudou-na-acessibilidade-digital/
+
+Retrospectiva da Lei Brasileira de Inclusão e análise da evolução das barreiras digitais no Brasil.
